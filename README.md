@@ -3,6 +3,8 @@
 
 A Python implementation of a 3D multi-object tracking pipeline based on Kalman Filter and Hungarian assignment, applied to the KITTI tracking dataset. This repository contains code for 3D tracking, association, evaluation, and visualization in Bird’s Eye View (BEV).
 
+![Uploading output.gif…]()
+
 ---
 
 ## 🚀 Project Structure
