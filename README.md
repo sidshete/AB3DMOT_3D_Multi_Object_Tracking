@@ -5,6 +5,7 @@ A Python implementation of a 3D multi-object tracking pipeline based on Kalman F
 ---
 
 ## 🚀 Project Structure
+```
 ab3dmot/
 │
 ├──data/    #download the KITTI tracking dataset
@@ -18,7 +19,7 @@ ab3dmot/
 ├── data/ # 📂 KITTI sample or test detection files
 ├── output/ # 📸 Output tracking results and visualizations
 └── evaluation.py # 📊 MOT evaluation using motmetrics
-└── Kitti2trackers_converter.py # 📥 Convert KITTI labels to tracking format
+└── Kitti2trackers_converter.py # 📥 Convert KITTI labels to tracking format```
 
 
 ---
@@ -35,13 +36,9 @@ ab3dmot/
 ---
 ### Requirements
 Python 3.x
-
 numpy
-
 scipy
-
 matplotlib
-
 motmetrics
 
 Install dependencies with:
